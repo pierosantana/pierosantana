@@ -1,6 +1,6 @@
 # ¡Hola, soy Piero Santana! 👋
 
-¡Bienvenidos a mi perfil de GitHub! Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma y Dispositivos Móviles** en **Upgrade Hub**. Estoy muy emocionado/a de seguir aprendiendo y compartiendo mis proyectos con la comunidad.
+¡Bienvenidos a mi perfil de GitHub! Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma y Dispositivos Móviles** en **Upgrade Hub**. Estoy muy emocionado de seguir aprendiendo y compartiendo mis proyectos con la comunidad.
 
 ### 📚 ¿Quién soy?
 Soy un entusiasta del desarrollo de software, enfocado en la creación de aplicaciones móviles y multiplataforma. Me apasiona aprender nuevas tecnologías y crear soluciones que mejoren la experiencia del usuario. 
@@ -29,7 +29,7 @@ A lo largo de mi formación, he trabajado en varios proyectos que incluyen aplic
 - [Portfolio](https://tu-portfolio.com)
 
 ### 📅 Mi próximo objetivo
-En los próximos meses, planeo profundizar mis conocimientos en **desarrollo de aplicaciones para IoT** y **inteligencia artificial en aplicaciones móviles**. ¡Estoy muy emocionado/a por lo que viene!
+En los próximos meses, planeo profundizar mis conocimientos en **desarrollo de aplicaciones para IoT** y **inteligencia artificial en aplicaciones móviles**. ¡Estoy muy emocionado por lo que viene!
 
 ¡Gracias por visitar mi perfil! 🎉
 
