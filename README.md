@@ -14,11 +14,13 @@ Mi objetivo es desarrollar aplicaciones móviles intuitivas y de alto rendimient
 - **Control de versiones:** Git, GitHub
 - **Otros:** 
 
+<!---
 ### 📈 Mis proyectos recientes
 A lo largo de mi formación, he trabajado en varios proyectos que incluyen aplicaciones móviles y soluciones multiplataforma. Algunos de ellos incluyen:
 - **[Nombre del Proyecto 1]:** Una aplicación para gestionar tareas y recordatorios, desarrollada con Flutter.
 - **[Nombre del Proyecto 2]:** Un sistema de reservas de restaurantes en tiempo real, utilizando React Native y Firebase.
 - **[Nombre del Proyecto 3]:** Una app para hacer seguimiento de la actividad física, construida con Xamarin.
+--->
 
 ### 💬 ¿Cómo conectarme?
 ¡Estoy siempre dispuesto a colaborar y aprender de otros! Si tienes alguna duda o quieres hablar sobre desarrollo de aplicaciones móviles, ¡no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales:
