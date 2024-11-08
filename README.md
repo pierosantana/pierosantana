@@ -1,39 +1,82 @@
-# ¡Hola, soy Piero Santana! 👋
+<h1 align="center"><b>Hi , I'm Piero Santana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-¡Bienvenidos a mi perfil de GitHub! Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma y Dispositivos Móviles** en **Upgrade Hub**. Estoy muy emocionado de seguir aprendiendo y compartiendo mis proyectos con la comunidad.
 
-### 📚 ¿Quién soy?
-Soy un entusiasta del desarrollo de software, enfocado en la creación de aplicaciones móviles y multiplataforma. Me apasiona aprender nuevas tecnologías y crear soluciones que mejoren la experiencia del usuario. 
-Mi objetivo es desarrollar aplicaciones móviles intuitivas y de alto rendimiento, aprovechando tecnologías modernas.
+## About me
 
-### 🛠️ Tecnologías que utilizo
-- **Lenguajes de programación:** Java, JavaScript, Kotlin.
-- **Frameworks:** React Native, Angular
-- **Herramientas de desarrollo:** Android Studio, Visual Studio Code, Eclipse, IntellJ
-- **Bases de datos:** SQLite, MySQL
-- **Control de versiones:** Git, GitHub
-- **Otros:** 
+- :student: I’m currently learning  `Software Development`.
+- :nerd_face: Always `learning new things`.
 
-<!---
-### 📈 Mis proyectos recientes
-A lo largo de mi formación, he trabajado en varios proyectos que incluyen aplicaciones móviles y soluciones multiplataforma. Algunos de ellos incluyen:
-- **[Nombre del Proyecto 1]:** Una aplicación para gestionar tareas y recordatorios, desarrollada con Flutter.
-- **[Nombre del Proyecto 2]:** Un sistema de reservas de restaurantes en tiempo real, utilizando React Native y Firebase.
-- **[Nombre del Proyecto 3]:** Una app para hacer seguimiento de la actividad física, construida con Xamarin.
---->
+<br>
 
-### 💬 ¿Cómo conectarme?
-¡Estoy siempre dispuesto a colaborar y aprender de otros! Si tienes alguna duda o quieres hablar sobre desarrollo de aplicaciones móviles, ¡no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales:
-- [LinkedIn](https://www.linkedin.com/in/santanapiero/)
-- [Twitter](https://##/usuario)
-- [Portfolio](https://tu-portfolio.com)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📅 Mi próximo objetivo
-En los próximos meses, planeo profundizar mis conocimientos en **desarrollo de aplicaciones para IoT** y **inteligencia artificial en aplicaciones móviles**. ¡Estoy muy emocionado por lo que viene!
+<p align="center">
 
-¡Gracias por visitar mi perfil! 🎉
+- **Languages**:
+    
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<!---
-pierosanttana/pierosanttana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+</p>
+
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/santanapiero" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  PieroSantana-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:piero.santtana@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  PieroSantana-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pierosanttana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pierosanttana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pierosanttana&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
