@@ -41,7 +41,7 @@
 
 <b>Socials</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <div align='left'>
-    <a href="https://linkedin.com/in/santanapiero" target="_blank">
+    <a href="https://linkedin.com/in/santanapiero" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LINKEDIN-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
     </a>
 </div>
