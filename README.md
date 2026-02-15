@@ -1,47 +1,40 @@
-<h1 align="center"><b>Hi! My name is Piero Santana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+<h3> Hi there! I'm Piero Santana 👋</h3>  
+<p>Junior Backend Developer based in Madrid, Spain.</p>
 
-🌍 I am a Junior Software Development based in Madrid, Spain.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## **Connect**
 
-**Languages**:
-<p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+<a href="mailto:piero.santanalarosa@gmail.com" style="padding: 12px;">
+    <img alt="Email" src="https://img.shields.io/badge/piero.santanalarosa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=28"></a>
+<a href='https://linkedin.com/in/santanapiero'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=28'>
+</a>
 
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> <b> Current Stack </b>
 
-**Front-End Development**:
-<p>
-    <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-<br>
+##### Languages
+<a href="https://www.java.com/es/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 
-**Softwares and Tools**:
-<p>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
-<br>
+##### Backend & Databases
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"></a>
+<a href="https://spring.io/projects/spring-data-jpa" target="_blank">
+<img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringData"></a>
+<a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.MySql.com/" target="_blank"><img src="https://img.shields.io/badge/MySql-316192?style=for-the-badge&logo=MySql&logoColor=white" alt="MySql"></a>
 
-**Extras**:
-<p>
-    <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</p>
 
-<br>
+##### Tools
+<a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Terminal-054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal"></a>
+<a href="https://www.Chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/Chatgpt-FCC624?style=for-the-badge&logo=Chatgpt&logoColor=black" alt="Chatgpt"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 
-<b>Socials</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<div align='left'>
-    <a href="https://linkedin.com/in/santanapiero" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LINKEDIN-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
-    </a>
 </div>
