@@ -48,9 +48,7 @@ Currently looking for my first professional opportunity in backend development.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> <b> Projects </b>
 
-- [microservices-bank](https://github.com/pierosantana/microservices-bank) - Simulated banking platform built with a microservices architecture.  
-- [task-board-api](https://github.com/pierosantana/task-board-api) - REST API for project and task management — a simplified Trello-like backend.  
-- [expense-manager-jdbc](https://github.com/pierosantana/expense-manager-jdbc) - Personal expense tracker in plain Java with JDBC — no frameworks, direct PostgreSQL connection.  
-- [KafkaOrdersDemo](https://github.com/pierosantana/KafkaOrdersDemo) - Basic Apache Kafka demo covering producers, consumers, topics and consumer groups.  
-- [movieplay-api](https://github.com/pierosantana/movieplay-api) - REST API for movie management — create, update and query titles with Spring Boot.
+- [checkxCLI](https://github.com/pierosantana/checkxCLI) - Terminal-based habit tracker in pure Java — streaks, weekly calendar, progress bar and interactive shell, no frameworks. 
+- [microservices-bank](https://github.com/pierosantana/microservices-bank) - Simulated banking platform built with a microservices architecture.
+- [Kafka-Orders](https://github.com/pierosantana/KafkaOrdersDemo) - Basic Apache Kafka demo covering producers, consumers, topics and consumer groups. 
 
