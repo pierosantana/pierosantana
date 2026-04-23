@@ -47,7 +47,7 @@ Currently looking for my first professional opportunity in backend development.
 ![IAs](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> <b> Projects </b>
-
+- [ListenGlish](https://github.com/pierosantana/ListenGlish) - Learn English from real YouTube videos — search words, sync subtitles, word lookup and search history.
 - [checkxCLI](https://github.com/pierosantana/checkxCLI) - Terminal-based habit tracker in pure Java — streaks, weekly calendar, progress bar and interactive shell.
 - [microservices-bank](https://github.com/pierosantana/microservices-bank) - Simulated banking platform built with a microservices architecture.
 - [Kafka-Orders](https://github.com/pierosantana/KafkaOrdersDemo) - Basic Apache Kafka demo covering producers, consumers, topics and consumer groups. 
